@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.forcyj.app",
+    "sha256_cert_fingerprints":
+    ["5B:6F:FF:19:1B:3D:3D:54:F1:E2:EB:C3:B1:D3:F0:B8:EF:E2:14:9A:50:4C:4E:FE:EC:84:2E:B0:01:90:7B:9F"]
+  }
+}]
