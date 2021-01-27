@@ -1,6 +1,10 @@
 title: cyj's blog
 description: Android, Chromium
 
+---
+permalink: /static/native.html
+---
+
 theme: minima
 plugins:
   - jekyll-feed
